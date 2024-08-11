@@ -1,0 +1,15 @@
+{
+  "name": "error-buddy",
+  "version": "2.0.1",
+  "description": "A CLI tool to monitor logs and suggest fixes",
+  "main": "index.js",
+  "bin": {
+    "your-cli-tool": "index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "dotenv": "^10.0.0",
+    "inquirer": "^10.1.8",
+    "openai": "^3.0.0"
+  }
+}
